@@ -24,22 +24,4 @@
 
 - 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
 
-- 可以当做前端字典，随时翻阅，查漏补缺。
-
-### 相关链接
-
-- 维护这个项目的初衷，可以看这篇文章：[《裸辞两个月，海投一个月，从Android转战Web前端的求职之路》](https://www.cnblogs.com/qianguyihao/p/8732781.html)
-
-- 前端入门路线和推荐学习资源，可以看这篇文章：[《2022年Web前端入门的自学路线》](https://www.cnblogs.com/qianguyihao/p/8776837.html)
-
-## 赞赏作者
-
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-
-
-## LICENSE
-
-![](http://img.smyhvae.com/20210331_CC-BY-NC-SA.png)
-
-本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
+- 可以当做前端字典，随时翻阅，查漏补缺。 
